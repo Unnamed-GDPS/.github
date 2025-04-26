@@ -10,7 +10,7 @@ Here you can find any useful resource for the game such as **downloads**, **chan
 # 📥 Downloads
 
 > [!WARNING]
-> - This GDPS is __only__ available for **🪟 Windows** and **🤖 Android**.
+> - This GDPS is <ins>only</ins> available for **🪟 Windows** and **🤖 Android**.
 > - Use 🕹️ emulators or port the game on your own if you want to play on other platforms, good luck!
 
 - 🪟 [Windows versions]()
